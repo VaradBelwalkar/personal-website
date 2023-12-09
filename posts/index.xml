@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Varad Belwalkar</title>
+    <link>http://belwalkarvarad.tech/posts/</link>
+    <description>Recent content in Posts on Varad Belwalkar</description>
+    <image>
+      <url>http://belwalkarvarad.tech/images/preview.png</url>
+      <link>http://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An overview of S3 bucket in AWS</title>
+      <link>http://belwalkarvarad.tech/posts/s3-bucket-aws-overview/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/s3-bucket-aws-overview/</guid>
+      <description>An overview of S3 bucket in AWS</description>
+    </item>
+    
+    <item>
+      <title>Assymetric Cryptography using GPG</title>
+      <link>http://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</guid>
+      <description>gpg commands for assymetric cryptography</description>
+    </item>
+    
+    <item>
+      <title>gpg: symmetric-cryptography, key distribution and more...</title>
+      <link>http://belwalkarvarad.tech/posts/gpg-other-content/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/gpg-other-content/</guid>
+      <description>important topics covered</description>
+    </item>
+    
+    <item>
+      <title>How does MySQL authenticates users?</title>
+      <link>http://belwalkarvarad.tech/posts/mysql-authentication/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/mysql-authentication/</guid>
+      <description>intricacies of MySQL authentication</description>
+    </item>
+    
+    <item>
+      <title>How does NAT work?</title>
+      <link>http://belwalkarvarad.tech/posts/nat-overview/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/nat-overview/</guid>
+      <description>NAT behind the scenes</description>
+    </item>
+    
+    <item>
+      <title>How Go handles packages?</title>
+      <link>http://belwalkarvarad.tech/posts/golang-workflow/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/golang-workflow/</guid>
+      <description>Package management in Go</description>
+    </item>
+    
+    <item>
+      <title>HTTP vs REST API</title>
+      <link>http://belwalkarvarad.tech/posts/http-vs-rest-api/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/http-vs-rest-api/</guid>
+      <description>Know the difference!</description>
+    </item>
+    
+    <item>
+      <title>ip addr basics</title>
+      <link>http://belwalkarvarad.tech/posts/output-of-ip-a/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/output-of-ip-a/</guid>
+      <description>ip addr basics</description>
+    </item>
+    
+    <item>
+      <title>JWT working Explained!</title>
+      <link>http://belwalkarvarad.tech/posts/jwt/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/jwt/</guid>
+      <description>The authentication backbone</description>
+    </item>
+    
+    <item>
+      <title>Linux NAT table overview</title>
+      <link>http://belwalkarvarad.tech/posts/iptables-nat-table-overview/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/iptables-nat-table-overview/</guid>
+      <description>Linux NAT table overview</description>
+    </item>
+    
+    <item>
+      <title>Linux Virtual Interfaces</title>
+      <link>http://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/linux-virtual-interfaces/</guid>
+      <description>Linux Virtual Interface Creation and its Working</description>
+    </item>
+    
+    <item>
+      <title>My tmux configuration</title>
+      <link>http://belwalkarvarad.tech/posts/my-tmux-conf/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/my-tmux-conf/</guid>
+      <description>Make your life easy using tmux :)</description>
+    </item>
+    
+    <item>
+      <title>MySQL storage engines</title>
+      <link>http://belwalkarvarad.tech/posts/mysql-storage-engines/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/mysql-storage-engines/</guid>
+      <description>Different storage engines to use</description>
+    </item>
+    
+    <item>
+      <title>netsh in windows</title>
+      <link>http://belwalkarvarad.tech/posts/netsh-in-windows/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/netsh-in-windows/</guid>
+      <description>learn netsh</description>
+    </item>
+    
+    <item>
+      <title>Reverse SSH Tunnel</title>
+      <link>http://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</guid>
+      <description>create your own tunnel</description>
+    </item>
+    
+    <item>
+      <title>The Art of engineering WSL-2</title>
+      <link>http://belwalkarvarad.tech/posts/the-art-of-engineering-wsl2/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/the-art-of-engineering-wsl2/</guid>
+      <description>Why I like WSL-2 so much!</description>
+    </item>
+    
+    <item>
+      <title>Understand LXC commands </title>
+      <link>http://belwalkarvarad.tech/posts/lxc-commands-list/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/lxc-commands-list/</guid>
+      <description>LXC Commands list with explaination</description>
+    </item>
+    
+    <item>
+      <title>What are custom VPCs in AWS?</title>
+      <link>http://belwalkarvarad.tech/posts/aws-vpc-workflow/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/aws-vpc-workflow/</guid>
+      <description>A detailed explaination regarding VPCs in AWS</description>
+    </item>
+    
+    <item>
+      <title>What happens when you register a domain?</title>
+      <link>http://belwalkarvarad.tech/posts/domain-registration/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/domain-registration/</guid>
+      <description>domain registration</description>
+    </item>
+    
+    <item>
+      <title>What is defaultVPC in AWS?</title>
+      <link>http://belwalkarvarad.tech/posts/defaultvpc-workflow/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/defaultvpc-workflow/</guid>
+      <description>A detailed explaination regarding defaultVPC in AWS</description>
+    </item>
+    
+    <item>
+      <title>What is Peering Connections in AWS?</title>
+      <link>http://belwalkarvarad.tech/posts/peering-connection-in-aws/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/peering-connection-in-aws/</guid>
+      <description>Peering Connections in AWS</description>
+    </item>
+    
+    <item>
+      <title>What is VLAN?</title>
+      <link>http://belwalkarvarad.tech/posts/what-is-vlan/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/what-is-vlan/</guid>
+      <description>VLAN deepdive</description>
+    </item>
+    
+  </channel>
+</rss>

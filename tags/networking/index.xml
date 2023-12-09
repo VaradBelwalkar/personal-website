@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>networking on Varad Belwalkar</title>
+    <link>http://belwalkarvarad.tech/tags/networking/</link>
+    <description>Recent content in networking on Varad Belwalkar</description>
+    <image>
+      <url>http://belwalkarvarad.tech/images/preview.png</url>
+      <link>http://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How does NAT work?</title>
+      <link>http://belwalkarvarad.tech/posts/nat-overview/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/nat-overview/</guid>
+      <description>NAT behind the scenes</description>
+    </item>
+    
+    <item>
+      <title>ip addr basics</title>
+      <link>http://belwalkarvarad.tech/posts/output-of-ip-a/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/output-of-ip-a/</guid>
+      <description>ip addr basics</description>
+    </item>
+    
+    <item>
+      <title>Linux NAT table overview</title>
+      <link>http://belwalkarvarad.tech/posts/iptables-nat-table-overview/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/iptables-nat-table-overview/</guid>
+      <description>Linux NAT table overview</description>
+    </item>
+    
+    <item>
+      <title>Linux Virtual Interfaces</title>
+      <link>http://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/linux-virtual-interfaces/</guid>
+      <description>Linux Virtual Interface Creation and its Working</description>
+    </item>
+    
+    <item>
+      <title>netsh in windows</title>
+      <link>http://belwalkarvarad.tech/posts/netsh-in-windows/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/netsh-in-windows/</guid>
+      <description>learn netsh</description>
+    </item>
+    
+    <item>
+      <title>What is VLAN?</title>
+      <link>http://belwalkarvarad.tech/posts/what-is-vlan/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/what-is-vlan/</guid>
+      <description>VLAN deepdive</description>
+    </item>
+    
+  </channel>
+</rss>

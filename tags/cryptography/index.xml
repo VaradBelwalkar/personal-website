@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cryptography on Varad Belwalkar</title>
+    <link>http://belwalkarvarad.tech/tags/cryptography/</link>
+    <description>Recent content in Cryptography on Varad Belwalkar</description>
+    <image>
+      <url>http://belwalkarvarad.tech/images/preview.png</url>
+      <link>http://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assymetric Cryptography using GPG</title>
+      <link>http://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</guid>
+      <description>gpg commands for assymetric cryptography</description>
+    </item>
+    
+    <item>
+      <title>gpg: symmetric-cryptography, key distribution and more...</title>
+      <link>http://belwalkarvarad.tech/posts/gpg-other-content/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/gpg-other-content/</guid>
+      <description>important topics covered</description>
+    </item>
+    
+  </channel>
+</rss>

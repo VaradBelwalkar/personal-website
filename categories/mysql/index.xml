@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MySQL on Varad Belwalkar</title>
+    <link>http://belwalkarvarad.tech/categories/mysql/</link>
+    <description>Recent content in MySQL on Varad Belwalkar</description>
+    <image>
+      <url>http://belwalkarvarad.tech/images/preview.png</url>
+      <link>http://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How does MySQL authenticates users?</title>
+      <link>http://belwalkarvarad.tech/posts/mysql-authentication/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/mysql-authentication/</guid>
+      <description>intricacies of MySQL authentication</description>
+    </item>
+    
+    <item>
+      <title>MySQL storage engines</title>
+      <link>http://belwalkarvarad.tech/posts/mysql-storage-engines/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/mysql-storage-engines/</guid>
+      <description>Different storage engines to use</description>
+    </item>
+    
+  </channel>
+</rss>

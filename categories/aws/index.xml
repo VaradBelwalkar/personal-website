@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AWS on Varad Belwalkar</title>
+    <link>http://belwalkarvarad.tech/categories/aws/</link>
+    <description>Recent content in AWS on Varad Belwalkar</description>
+    <image>
+      <url>http://belwalkarvarad.tech/images/preview.png</url>
+      <link>http://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/categories/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An overview of S3 bucket in AWS</title>
+      <link>http://belwalkarvarad.tech/posts/s3-bucket-aws-overview/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/s3-bucket-aws-overview/</guid>
+      <description>An overview of S3 bucket in AWS</description>
+    </item>
+    
+    <item>
+      <title>What are custom VPCs in AWS?</title>
+      <link>http://belwalkarvarad.tech/posts/aws-vpc-workflow/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/aws-vpc-workflow/</guid>
+      <description>A detailed explaination regarding VPCs in AWS</description>
+    </item>
+    
+    <item>
+      <title>What happens when you register a domain?</title>
+      <link>http://belwalkarvarad.tech/posts/domain-registration/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/domain-registration/</guid>
+      <description>domain registration</description>
+    </item>
+    
+    <item>
+      <title>What is defaultVPC in AWS?</title>
+      <link>http://belwalkarvarad.tech/posts/defaultvpc-workflow/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/defaultvpc-workflow/</guid>
+      <description>A detailed explaination regarding defaultVPC in AWS</description>
+    </item>
+    
+    <item>
+      <title>What is Peering Connections in AWS?</title>
+      <link>http://belwalkarvarad.tech/posts/peering-connection-in-aws/</link>
+      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>http://belwalkarvarad.tech/posts/peering-connection-in-aws/</guid>
+      <description>Peering Connections in AWS</description>
+    </item>
+    
+  </channel>
+</rss>
