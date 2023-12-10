@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Varad Belwalkar</title>
-    <link>http://belwalkarvarad.tech/categories/</link>
+    <link>https://belwalkarvarad.tech/categories/</link>
     <description>Recent content in Categories on Varad Belwalkar</description>
     <image>
-      <url>http://belwalkarvarad.tech/images/preview.png</url>
-      <link>http://belwalkarvarad.tech/</link>
+      <url>https://belwalkarvarad.tech/images/preview.png</url>
+      <link>https://belwalkarvarad.tech/</link>
       <title>Varad Belwalkar</title>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API</title>
-      <link>http://belwalkarvarad.tech/categories/api/</link>
+      <link>https://belwalkarvarad.tech/categories/api/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/api/</guid>
+      <guid>https://belwalkarvarad.tech/categories/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Authentication</title>
-      <link>http://belwalkarvarad.tech/categories/authentication/</link>
+      <link>https://belwalkarvarad.tech/categories/authentication/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/authentication/</guid>
+      <guid>https://belwalkarvarad.tech/categories/authentication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>http://belwalkarvarad.tech/categories/aws/</link>
+      <link>https://belwalkarvarad.tech/categories/aws/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/aws/</guid>
+      <guid>https://belwalkarvarad.tech/categories/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Configuration</title>
-      <link>http://belwalkarvarad.tech/categories/configuration/</link>
+      <link>https://belwalkarvarad.tech/categories/configuration/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/configuration/</guid>
+      <guid>https://belwalkarvarad.tech/categories/configuration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptography</title>
-      <link>http://belwalkarvarad.tech/categories/cryptography/</link>
+      <link>https://belwalkarvarad.tech/categories/cryptography/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/cryptography/</guid>
+      <guid>https://belwalkarvarad.tech/categories/cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://belwalkarvarad.tech/categories/go/</link>
+      <link>https://belwalkarvarad.tech/categories/go/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/go/</guid>
+      <guid>https://belwalkarvarad.tech/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTTP</title>
-      <link>http://belwalkarvarad.tech/categories/http/</link>
+      <link>https://belwalkarvarad.tech/categories/http/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/http/</guid>
+      <guid>https://belwalkarvarad.tech/categories/http/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iptables</title>
-      <link>http://belwalkarvarad.tech/categories/iptables/</link>
+      <link>https://belwalkarvarad.tech/categories/iptables/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/iptables/</guid>
+      <guid>https://belwalkarvarad.tech/categories/iptables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JWT</title>
-      <link>http://belwalkarvarad.tech/categories/jwt/</link>
+      <link>https://belwalkarvarad.tech/categories/jwt/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/jwt/</guid>
+      <guid>https://belwalkarvarad.tech/categories/jwt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://belwalkarvarad.tech/categories/linux/</link>
+      <link>https://belwalkarvarad.tech/categories/linux/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/linux/</guid>
+      <guid>https://belwalkarvarad.tech/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LXC</title>
-      <link>http://belwalkarvarad.tech/categories/lxc/</link>
+      <link>https://belwalkarvarad.tech/categories/lxc/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/lxc/</guid>
+      <guid>https://belwalkarvarad.tech/categories/lxc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LXD</title>
-      <link>http://belwalkarvarad.tech/categories/lxd/</link>
+      <link>https://belwalkarvarad.tech/categories/lxd/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/lxd/</guid>
+      <guid>https://belwalkarvarad.tech/categories/lxd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL</title>
-      <link>http://belwalkarvarad.tech/categories/mysql/</link>
+      <link>https://belwalkarvarad.tech/categories/mysql/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/mysql/</guid>
+      <guid>https://belwalkarvarad.tech/categories/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NAT</title>
-      <link>http://belwalkarvarad.tech/categories/nat/</link>
+      <link>https://belwalkarvarad.tech/categories/nat/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/nat/</guid>
+      <guid>https://belwalkarvarad.tech/categories/nat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networking</title>
-      <link>http://belwalkarvarad.tech/categories/networking/</link>
+      <link>https://belwalkarvarad.tech/categories/networking/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/networking/</guid>
+      <guid>https://belwalkarvarad.tech/categories/networking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>http://belwalkarvarad.tech/categories/productivity/</link>
+      <link>https://belwalkarvarad.tech/categories/productivity/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/productivity/</guid>
+      <guid>https://belwalkarvarad.tech/categories/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://belwalkarvarad.tech/categories/programming/</link>
+      <link>https://belwalkarvarad.tech/categories/programming/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/programming/</guid>
+      <guid>https://belwalkarvarad.tech/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST</title>
-      <link>http://belwalkarvarad.tech/categories/rest/</link>
+      <link>https://belwalkarvarad.tech/categories/rest/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/rest/</guid>
+      <guid>https://belwalkarvarad.tech/categories/rest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S3</title>
-      <link>http://belwalkarvarad.tech/categories/s3/</link>
+      <link>https://belwalkarvarad.tech/categories/s3/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/s3/</guid>
+      <guid>https://belwalkarvarad.tech/categories/s3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSH</title>
-      <link>http://belwalkarvarad.tech/categories/ssh/</link>
+      <link>https://belwalkarvarad.tech/categories/ssh/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/ssh/</guid>
+      <guid>https://belwalkarvarad.tech/categories/ssh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tmux</title>
-      <link>http://belwalkarvarad.tech/categories/tmux/</link>
+      <link>https://belwalkarvarad.tech/categories/tmux/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/tmux/</guid>
+      <guid>https://belwalkarvarad.tech/categories/tmux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VLAN</title>
-      <link>http://belwalkarvarad.tech/categories/vlan/</link>
+      <link>https://belwalkarvarad.tech/categories/vlan/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/vlan/</guid>
+      <guid>https://belwalkarvarad.tech/categories/vlan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VPCs</title>
-      <link>http://belwalkarvarad.tech/categories/vpcs/</link>
+      <link>https://belwalkarvarad.tech/categories/vpcs/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/vpcs/</guid>
+      <guid>https://belwalkarvarad.tech/categories/vpcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>windows</title>
-      <link>http://belwalkarvarad.tech/categories/windows/</link>
+      <link>https://belwalkarvarad.tech/categories/windows/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/categories/windows/</guid>
+      <guid>https://belwalkarvarad.tech/categories/windows/</guid>
       <description></description>
     </item>
     

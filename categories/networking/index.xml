@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Networking on Varad Belwalkar</title>
-    <link>http://belwalkarvarad.tech/categories/networking/</link>
+    <link>https://belwalkarvarad.tech/categories/networking/</link>
     <description>Recent content in Networking on Varad Belwalkar</description>
     <image>
-      <url>http://belwalkarvarad.tech/images/preview.png</url>
-      <link>http://belwalkarvarad.tech/</link>
+      <url>https://belwalkarvarad.tech/images/preview.png</url>
+      <link>https://belwalkarvarad.tech/</link>
       <title>Varad Belwalkar</title>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How does NAT work?</title>
-      <link>http://belwalkarvarad.tech/posts/nat-overview/</link>
+      <link>https://belwalkarvarad.tech/posts/nat-overview/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/nat-overview/</guid>
+      <guid>https://belwalkarvarad.tech/posts/nat-overview/</guid>
       <description>NAT behind the scenes</description>
     </item>
     
     <item>
       <title>ip addr basics</title>
-      <link>http://belwalkarvarad.tech/posts/output-of-ip-a/</link>
+      <link>https://belwalkarvarad.tech/posts/output-of-ip-a/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/output-of-ip-a/</guid>
+      <guid>https://belwalkarvarad.tech/posts/output-of-ip-a/</guid>
       <description>ip addr basics</description>
     </item>
     
     <item>
       <title>Linux Virtual Interfaces</title>
-      <link>http://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>
+      <link>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/linux-virtual-interfaces/</guid>
+      <guid>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</guid>
       <description>Linux Virtual Interface Creation and its Working</description>
     </item>
     
     <item>
       <title>netsh in windows</title>
-      <link>http://belwalkarvarad.tech/posts/netsh-in-windows/</link>
+      <link>https://belwalkarvarad.tech/posts/netsh-in-windows/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/netsh-in-windows/</guid>
+      <guid>https://belwalkarvarad.tech/posts/netsh-in-windows/</guid>
       <description>learn netsh</description>
     </item>
     
     <item>
       <title>Reverse SSH Tunnel</title>
-      <link>http://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
+      <link>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</guid>
+      <guid>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</guid>
       <description>create your own tunnel</description>
     </item>
     
     <item>
       <title>What is Peering Connections in AWS?</title>
-      <link>http://belwalkarvarad.tech/posts/peering-connection-in-aws/</link>
+      <link>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/peering-connection-in-aws/</guid>
+      <guid>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</guid>
       <description>Peering Connections in AWS</description>
     </item>
     
     <item>
       <title>What is VLAN?</title>
-      <link>http://belwalkarvarad.tech/posts/what-is-vlan/</link>
+      <link>https://belwalkarvarad.tech/posts/what-is-vlan/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/what-is-vlan/</guid>
+      <guid>https://belwalkarvarad.tech/posts/what-is-vlan/</guid>
       <description>VLAN deepdive</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tunneling on Varad Belwalkar</title>
-    <link>http://belwalkarvarad.tech/tags/tunneling/</link>
+    <link>https://belwalkarvarad.tech/tags/tunneling/</link>
     <description>Recent content in Tunneling on Varad Belwalkar</description>
     <image>
-      <url>http://belwalkarvarad.tech/images/preview.png</url>
-      <link>http://belwalkarvarad.tech/</link>
+      <url>https://belwalkarvarad.tech/images/preview.png</url>
+      <link>https://belwalkarvarad.tech/</link>
       <title>Varad Belwalkar</title>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="http://belwalkarvarad.tech/tags/tunneling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/tunneling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reverse SSH Tunnel</title>
-      <link>http://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
+      <link>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
-      <guid>http://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</guid>
+      <guid>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</guid>
       <description>create your own tunnel</description>
     </item>
     
