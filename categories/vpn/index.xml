@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VPN on Varad Belwalkar</title>
+    <link>https://belwalkarvarad.tech/categories/vpn/</link>
+    <description>Recent content in VPN on Varad Belwalkar</description>
+    <image>
+      <url>https://belwalkarvarad.tech/images/preview.png</url>
+      <link>https://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to actually setup VPN in AWS?</title>
+      <link>https://belwalkarvarad.tech/posts/vpn-workflow-aws/</link>
+      <pubDate>Tue, 12 Dec 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/vpn-workflow-aws/</guid>
+      <description>Setting VPN in AWS is not straightforward!</description>
+    </item>
+    
+  </channel>
+</rss>

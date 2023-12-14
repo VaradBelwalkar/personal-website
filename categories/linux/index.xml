@@ -11,11 +11,29 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Virtual Interfaces</title>
+      <link>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>
+      <pubDate>Mon, 04 Sep 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</guid>
+      <description>Linux Virtual Interface Creation and its Working</description>
+    </item>
+    
+    <item>
+      <title>Linux NAT table overview</title>
+      <link>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</link>
+      <pubDate>Sun, 25 Jun 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</guid>
+      <description>Linux NAT table overview</description>
+    </item>
+    
     <item>
       <title>Assymetric Cryptography using GPG</title>
       <link>https://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sat, 14 Jan 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</guid>
       <description>gpg commands for assymetric cryptography</description>
@@ -24,7 +42,7 @@
     <item>
       <title>gpg: symmetric-cryptography, key distribution and more...</title>
       <link>https://belwalkarvarad.tech/posts/gpg-other-content/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sat, 14 Jan 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/gpg-other-content/</guid>
       <description>important topics covered</description>
@@ -33,28 +51,10 @@
     <item>
       <title>ip addr basics</title>
       <link>https://belwalkarvarad.tech/posts/output-of-ip-a/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sun, 14 Aug 2022 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/output-of-ip-a/</guid>
       <description>ip addr basics</description>
-    </item>
-    
-    <item>
-      <title>Linux NAT table overview</title>
-      <link>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</guid>
-      <description>Linux NAT table overview</description>
-    </item>
-    
-    <item>
-      <title>Linux Virtual Interfaces</title>
-      <link>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</guid>
-      <description>Linux Virtual Interface Creation and its Working</description>
     </item>
     
   </channel>

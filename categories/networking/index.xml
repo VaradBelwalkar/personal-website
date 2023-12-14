@@ -11,59 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How does NAT work?</title>
-      <link>https://belwalkarvarad.tech/posts/nat-overview/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>What is Peering Connections in AWS?</title>
+      <link>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</link>
+      <pubDate>Sat, 18 Nov 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/posts/nat-overview/</guid>
-      <description>NAT behind the scenes</description>
-    </item>
-    
-    <item>
-      <title>ip addr basics</title>
-      <link>https://belwalkarvarad.tech/posts/output-of-ip-a/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/output-of-ip-a/</guid>
-      <description>ip addr basics</description>
+      <guid>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</guid>
+      <description>Peering Connections in AWS</description>
     </item>
     
     <item>
       <title>Linux Virtual Interfaces</title>
       <link>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Mon, 04 Sep 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</guid>
       <description>Linux Virtual Interface Creation and its Working</description>
-    </item>
-    
-    <item>
-      <title>netsh in windows</title>
-      <link>https://belwalkarvarad.tech/posts/netsh-in-windows/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/netsh-in-windows/</guid>
-      <description>learn netsh</description>
-    </item>
-    
-    <item>
-      <title>Reverse SSH Tunnel</title>
-      <link>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</guid>
-      <description>create your own tunnel</description>
-    </item>
-    
-    <item>
-      <title>What is Peering Connections in AWS?</title>
-      <link>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</guid>
-      <description>Peering Connections in AWS</description>
     </item>
     
     <item>
@@ -73,6 +37,42 @@
       
       <guid>https://belwalkarvarad.tech/posts/what-is-vlan/</guid>
       <description>VLAN deepdive</description>
+    </item>
+    
+    <item>
+      <title>netsh in windows</title>
+      <link>https://belwalkarvarad.tech/posts/netsh-in-windows/</link>
+      <pubDate>Wed, 26 Apr 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/netsh-in-windows/</guid>
+      <description>learn netsh</description>
+    </item>
+    
+    <item>
+      <title>Reverse SSH Tunnel</title>
+      <link>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
+      <pubDate>Wed, 15 Feb 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</guid>
+      <description>create your own tunnel</description>
+    </item>
+    
+    <item>
+      <title>How does NAT work?</title>
+      <link>https://belwalkarvarad.tech/posts/nat-overview/</link>
+      <pubDate>Fri, 10 Feb 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/nat-overview/</guid>
+      <description>NAT behind the scenes</description>
+    </item>
+    
+    <item>
+      <title>ip addr basics</title>
+      <link>https://belwalkarvarad.tech/posts/output-of-ip-a/</link>
+      <pubDate>Sun, 14 Aug 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/output-of-ip-a/</guid>
+      <description>ip addr basics</description>
     </item>
     
   </channel>

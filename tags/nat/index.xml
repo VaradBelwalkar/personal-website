@@ -11,23 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/nat/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How does NAT work?</title>
-      <link>https://belwalkarvarad.tech/posts/nat-overview/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/nat-overview/</guid>
-      <description>NAT behind the scenes</description>
-    </item>
-    
+    <lastBuildDate>Sun, 25 Jun 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/nat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux NAT table overview</title>
       <link>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sun, 25 Jun 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</guid>
       <description>Linux NAT table overview</description>
+    </item>
+    
+    <item>
+      <title>How does NAT work?</title>
+      <link>https://belwalkarvarad.tech/posts/nat-overview/</link>
+      <pubDate>Fri, 10 Feb 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/nat-overview/</guid>
+      <description>NAT behind the scenes</description>
     </item>
     
   </channel>

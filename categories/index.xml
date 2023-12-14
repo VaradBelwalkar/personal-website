@@ -11,101 +11,101 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>API</title>
-      <link>https://belwalkarvarad.tech/categories/api/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>VPN</title>
+      <link>https://belwalkarvarad.tech/categories/vpn/</link>
+      <pubDate>Tue, 12 Dec 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authentication</title>
-      <link>https://belwalkarvarad.tech/categories/authentication/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/authentication/</guid>
+      <guid>https://belwalkarvarad.tech/categories/vpn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
       <link>https://belwalkarvarad.tech/categories/aws/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sat, 02 Dec 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/aws/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Configuration</title>
-      <link>https://belwalkarvarad.tech/categories/configuration/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>S3</title>
+      <link>https://belwalkarvarad.tech/categories/s3/</link>
+      <pubDate>Sat, 02 Dec 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/configuration/</guid>
+      <guid>https://belwalkarvarad.tech/categories/s3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cryptography</title>
-      <link>https://belwalkarvarad.tech/categories/cryptography/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>API</title>
+      <link>https://belwalkarvarad.tech/categories/api/</link>
+      <pubDate>Sun, 26 Nov 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/cryptography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://belwalkarvarad.tech/categories/go/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/go/</guid>
+      <guid>https://belwalkarvarad.tech/categories/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTTP</title>
       <link>https://belwalkarvarad.tech/categories/http/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sun, 26 Nov 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/http/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>iptables</title>
-      <link>https://belwalkarvarad.tech/categories/iptables/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>REST</title>
+      <link>https://belwalkarvarad.tech/categories/rest/</link>
+      <pubDate>Sun, 26 Nov 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/iptables/</guid>
+      <guid>https://belwalkarvarad.tech/categories/rest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JWT</title>
-      <link>https://belwalkarvarad.tech/categories/jwt/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>Networking</title>
+      <link>https://belwalkarvarad.tech/categories/networking/</link>
+      <pubDate>Sat, 18 Nov 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/jwt/</guid>
+      <guid>https://belwalkarvarad.tech/categories/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VPCs</title>
+      <link>https://belwalkarvarad.tech/categories/vpcs/</link>
+      <pubDate>Sat, 04 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/vpcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
       <link>https://belwalkarvarad.tech/categories/linux/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Mon, 04 Sep 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>windows</title>
+      <link>https://belwalkarvarad.tech/categories/windows/</link>
+      <pubDate>Mon, 14 Aug 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LXC</title>
       <link>https://belwalkarvarad.tech/categories/lxc/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Tue, 08 Aug 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/lxc/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>LXD</title>
       <link>https://belwalkarvarad.tech/categories/lxd/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Tue, 08 Aug 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/lxd/</guid>
       <description></description>
@@ -123,81 +123,18 @@
     <item>
       <title>MySQL</title>
       <link>https://belwalkarvarad.tech/categories/mysql/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Thu, 20 Jul 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/mysql/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NAT</title>
-      <link>https://belwalkarvarad.tech/categories/nat/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>iptables</title>
+      <link>https://belwalkarvarad.tech/categories/iptables/</link>
+      <pubDate>Sun, 25 Jun 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/nat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Networking</title>
-      <link>https://belwalkarvarad.tech/categories/networking/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>https://belwalkarvarad.tech/categories/productivity/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://belwalkarvarad.tech/categories/programming/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST</title>
-      <link>https://belwalkarvarad.tech/categories/rest/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/rest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S3</title>
-      <link>https://belwalkarvarad.tech/categories/s3/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/s3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SSH</title>
-      <link>https://belwalkarvarad.tech/categories/ssh/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/ssh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tmux</title>
-      <link>https://belwalkarvarad.tech/categories/tmux/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/categories/tmux/</guid>
+      <guid>https://belwalkarvarad.tech/categories/iptables/</guid>
       <description></description>
     </item>
     
@@ -211,20 +148,92 @@
     </item>
     
     <item>
-      <title>VPCs</title>
-      <link>https://belwalkarvarad.tech/categories/vpcs/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>SSH</title>
+      <link>https://belwalkarvarad.tech/categories/ssh/</link>
+      <pubDate>Wed, 15 Feb 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/vpcs/</guid>
+      <guid>https://belwalkarvarad.tech/categories/ssh/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>windows</title>
-      <link>https://belwalkarvarad.tech/categories/windows/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <title>NAT</title>
+      <link>https://belwalkarvarad.tech/categories/nat/</link>
+      <pubDate>Fri, 10 Feb 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/categories/windows/</guid>
+      <guid>https://belwalkarvarad.tech/categories/nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://belwalkarvarad.tech/categories/cryptography/</link>
+      <pubDate>Sat, 14 Jan 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication</title>
+      <link>https://belwalkarvarad.tech/categories/authentication/</link>
+      <pubDate>Sat, 24 Dec 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JWT</title>
+      <link>https://belwalkarvarad.tech/categories/jwt/</link>
+      <pubDate>Sat, 24 Dec 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/jwt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://belwalkarvarad.tech/categories/go/</link>
+      <pubDate>Wed, 19 Oct 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://belwalkarvarad.tech/categories/programming/</link>
+      <pubDate>Wed, 19 Oct 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://belwalkarvarad.tech/categories/configuration/</link>
+      <pubDate>Sat, 09 Apr 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://belwalkarvarad.tech/categories/productivity/</link>
+      <pubDate>Sat, 09 Apr 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tmux</title>
+      <link>https://belwalkarvarad.tech/categories/tmux/</link>
+      <pubDate>Sat, 09 Apr 2022 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/tmux/</guid>
       <description></description>
     </item>
     

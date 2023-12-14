@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assymetric Cryptography using GPG</title>
       <link>https://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sat, 14 Jan 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</guid>
       <description>gpg commands for assymetric cryptography</description>
@@ -24,7 +24,7 @@
     <item>
       <title>gpg: symmetric-cryptography, key distribution and more...</title>
       <link>https://belwalkarvarad.tech/posts/gpg-other-content/</link>
-      <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
+      <pubDate>Sat, 14 Jan 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/gpg-other-content/</guid>
       <description>important topics covered</description>
