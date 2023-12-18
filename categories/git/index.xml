@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on Varad Belwalkar</title>
+    <link>https://belwalkarvarad.tech/categories/git/</link>
+    <description>Recent content in Git on Varad Belwalkar</description>
+    <image>
+      <url>https://belwalkarvarad.tech/images/preview.png</url>
+      <link>https://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to setup custom key for Git to authenticate against remote repo?</title>
+      <link>https://belwalkarvarad.tech/posts/ssh-key-for-github/</link>
+      <pubDate>Wed, 08 Feb 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/ssh-key-for-github/</guid>
+      <description>custom key to use for git auth.</description>
+    </item>
+    
+  </channel>
+</rss>

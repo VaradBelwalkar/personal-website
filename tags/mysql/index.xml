@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>MySQL Select Query</title>
+      <link>https://belwalkarvarad.tech/posts/mysql-select/</link>
+      <pubDate>Sat, 15 Jul 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/mysql-select/</guid>
+      <description>Select Query</description>
+    </item>
+    
+    <item>
       <title>MySQL storage engines</title>
       <link>https://belwalkarvarad.tech/posts/mysql-storage-engines/</link>
       <pubDate>Sat, 15 Oct 2022 09:15:19 +0530</pubDate>

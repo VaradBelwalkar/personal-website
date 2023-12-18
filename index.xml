@@ -94,6 +94,15 @@
     </item>
     
     <item>
+      <title>Virtual Hosting through Apache</title>
+      <link>https://belwalkarvarad.tech/posts/virtual-hosting-apache/</link>
+      <pubDate>Mon, 14 Aug 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/virtual-hosting-apache/</guid>
+      <description>Host multiple websites using apache</description>
+    </item>
+    
+    <item>
       <title>Understand LXC commands </title>
       <link>https://belwalkarvarad.tech/posts/lxc-commands-list/</link>
       <pubDate>Tue, 08 Aug 2023 09:15:19 +0530</pubDate>
@@ -112,12 +121,30 @@
     </item>
     
     <item>
+      <title>MySQL Select Query</title>
+      <link>https://belwalkarvarad.tech/posts/mysql-select/</link>
+      <pubDate>Sat, 15 Jul 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/mysql-select/</guid>
+      <description>Select Query</description>
+    </item>
+    
+    <item>
       <title>Linux NAT table overview</title>
       <link>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</link>
       <pubDate>Sun, 25 Jun 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/posts/iptables-nat-table-overview/</guid>
       <description>Linux NAT table overview</description>
+    </item>
+    
+    <item>
+      <title>How to switch between different Nodejs versions?</title>
+      <link>https://belwalkarvarad.tech/posts/nodejs-n-package/</link>
+      <pubDate>Sun, 14 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/nodejs-n-package/</guid>
+      <description>Version switching in nodejs</description>
     </item>
     
     <item>
@@ -139,6 +166,24 @@
     </item>
     
     <item>
+      <title>setuid Binary in Linux</title>
+      <link>https://belwalkarvarad.tech/posts/setuid-binary/</link>
+      <pubDate>Sun, 16 Apr 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/setuid-binary/</guid>
+      <description>what is SETUID?</description>
+    </item>
+    
+    <item>
+      <title>Redis CLI commands</title>
+      <link>https://belwalkarvarad.tech/posts/redis-cli/</link>
+      <pubDate>Tue, 11 Apr 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/redis-cli/</guid>
+      <description>List of useful redis-cli commands</description>
+    </item>
+    
+    <item>
       <title>Reverse SSH Tunnel</title>
       <link>https://belwalkarvarad.tech/posts/reverse-ssh-tunnel/</link>
       <pubDate>Wed, 15 Feb 2023 09:15:19 +0530</pubDate>
@@ -154,6 +199,15 @@
       
       <guid>https://belwalkarvarad.tech/posts/nat-overview/</guid>
       <description>NAT behind the scenes</description>
+    </item>
+    
+    <item>
+      <title>How to setup custom key for Git to authenticate against remote repo?</title>
+      <link>https://belwalkarvarad.tech/posts/ssh-key-for-github/</link>
+      <pubDate>Wed, 08 Feb 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/ssh-key-for-github/</guid>
+      <description>custom key to use for git auth.</description>
     </item>
     
     <item>

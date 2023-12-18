@@ -94,6 +94,24 @@
     </item>
     
     <item>
+      <title>Apache</title>
+      <link>https://belwalkarvarad.tech/categories/apache/</link>
+      <pubDate>Mon, 14 Aug 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webserver</title>
+      <link>https://belwalkarvarad.tech/categories/webserver/</link>
+      <pubDate>Mon, 14 Aug 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/webserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>windows</title>
       <link>https://belwalkarvarad.tech/categories/windows/</link>
       <pubDate>Mon, 14 Aug 2023 09:15:19 +0530</pubDate>
@@ -139,11 +157,29 @@
     </item>
     
     <item>
+      <title>Nodejs</title>
+      <link>https://belwalkarvarad.tech/categories/nodejs/</link>
+      <pubDate>Sun, 14 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VLAN</title>
       <link>https://belwalkarvarad.tech/categories/vlan/</link>
       <pubDate>Fri, 05 May 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/vlan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://belwalkarvarad.tech/categories/redis/</link>
+      <pubDate>Tue, 11 Apr 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/redis/</guid>
       <description></description>
     </item>
     
@@ -162,6 +198,15 @@
       <pubDate>Fri, 10 Feb 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://belwalkarvarad.tech/categories/git/</link>
+      <pubDate>Wed, 08 Feb 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/git/</guid>
       <description></description>
     </item>
     

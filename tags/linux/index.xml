@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>setuid Binary in Linux</title>
+      <link>https://belwalkarvarad.tech/posts/setuid-binary/</link>
+      <pubDate>Sun, 16 Apr 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/setuid-binary/</guid>
+      <description>what is SETUID?</description>
+    </item>
+    
+    <item>
       <title>Assymetric Cryptography using GPG</title>
       <link>https://belwalkarvarad.tech/posts/gpg-asymmetric-crypt-commands/</link>
       <pubDate>Sat, 14 Jan 2023 09:15:19 +0530</pubDate>

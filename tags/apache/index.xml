@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apache on Varad Belwalkar</title>
+    <link>https://belwalkarvarad.tech/tags/apache/</link>
+    <description>Recent content in Apache on Varad Belwalkar</description>
+    <image>
+      <url>https://belwalkarvarad.tech/images/preview.png</url>
+      <link>https://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Hosting through Apache</title>
+      <link>https://belwalkarvarad.tech/posts/virtual-hosting-apache/</link>
+      <pubDate>Mon, 14 Aug 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/virtual-hosting-apache/</guid>
+      <description>Host multiple websites using apache</description>
+    </item>
+    
+  </channel>
+</rss>

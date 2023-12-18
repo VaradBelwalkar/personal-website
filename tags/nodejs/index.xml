@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NodeJS on Varad Belwalkar</title>
+    <link>https://belwalkarvarad.tech/tags/nodejs/</link>
+    <description>Recent content in NodeJS on Varad Belwalkar</description>
+    <image>
+      <url>https://belwalkarvarad.tech/images/preview.png</url>
+      <link>https://belwalkarvarad.tech/</link>
+      <title>Varad Belwalkar</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to switch between different Nodejs versions?</title>
+      <link>https://belwalkarvarad.tech/posts/nodejs-n-package/</link>
+      <pubDate>Sun, 14 May 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/nodejs-n-package/</guid>
+      <description>Version switching in nodejs</description>
+    </item>
+    
+  </channel>
+</rss>
