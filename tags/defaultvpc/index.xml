@@ -21,14 +21,5 @@
       <description>A detailed explaination regarding defaultVPC in AWS</description>
     </item>
     
-    <item>
-      <title>What happens when you register a domain?</title>
-      <link>https://belwalkarvarad.tech/posts/domain-registration/</link>
-      <pubDate>Mon, 16 Oct 2023 09:15:19 +0530</pubDate>
-      
-      <guid>https://belwalkarvarad.tech/posts/domain-registration/</guid>
-      <description>domain registration</description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>networking on Varad Belwalkar</title>
+    <title>Networking on Varad Belwalkar</title>
     <link>https://belwalkarvarad.tech/tags/networking/</link>
-    <description>Recent content in networking on Varad Belwalkar</description>
+    <description>Recent content in Networking on Varad Belwalkar</description>
     <image>
       <url>https://belwalkarvarad.tech/images/preview.png</url>
       <link>https://belwalkarvarad.tech/</link>
@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Sep 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 09:15:19 +0530</lastBuildDate><atom:link href="https://belwalkarvarad.tech/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An overview of AWS Route53</title>
+      <link>https://belwalkarvarad.tech/posts/aws-route53-overview/</link>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/aws-route53-overview/</guid>
+      <description>Route53 overview</description>
+    </item>
+    
+    <item>
+      <title>NAT vs. PAT in Networking (In Progress)</title>
+      <link>https://belwalkarvarad.tech/posts/nat-vs-pat/</link>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/nat-vs-pat/</guid>
+      <description>NAT vs. PAT</description>
+    </item>
+    
     <item>
       <title>Linux Virtual Interfaces</title>
       <link>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</link>

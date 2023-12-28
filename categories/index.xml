@@ -67,9 +67,27 @@
     </item>
     
     <item>
+      <title>Formatting</title>
+      <link>https://belwalkarvarad.tech/categories/formatting/</link>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/formatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://belwalkarvarad.tech/categories/markdown/</link>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Networking</title>
       <link>https://belwalkarvarad.tech/categories/networking/</link>
-      <pubDate>Sat, 18 Nov 2023 09:15:19 +0530</pubDate>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/networking/</guid>
       <description></description>
@@ -81,6 +99,24 @@
       <pubDate>Thu, 09 Nov 2023 09:15:19 +0530</pubDate>
       
       <guid>https://belwalkarvarad.tech/categories/vpcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-dives</title>
+      <link>https://belwalkarvarad.tech/categories/deep-dives/</link>
+      <pubDate>Mon, 16 Oct 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/deep-dives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNS</title>
+      <link>https://belwalkarvarad.tech/categories/dns/</link>
+      <pubDate>Mon, 16 Oct 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/categories/dns/</guid>
       <description></description>
     </item>
     

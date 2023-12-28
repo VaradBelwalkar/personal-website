@@ -40,6 +40,33 @@
     </item>
     
     <item>
+      <title>An overview of AWS Route53</title>
+      <link>https://belwalkarvarad.tech/posts/aws-route53-overview/</link>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/aws-route53-overview/</guid>
+      <description>Route53 overview</description>
+    </item>
+    
+    <item>
+      <title>Markdown Tutorial (In Progress)</title>
+      <link>https://belwalkarvarad.tech/posts/markdown-tutorial/</link>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/markdown-tutorial/</guid>
+      <description>Learn Markdown</description>
+    </item>
+    
+    <item>
+      <title>NAT vs. PAT in Networking (In Progress)</title>
+      <link>https://belwalkarvarad.tech/posts/nat-vs-pat/</link>
+      <pubDate>Wed, 22 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/nat-vs-pat/</guid>
+      <description>NAT vs. PAT</description>
+    </item>
+    
+    <item>
       <title>What is Peering Connections in AWS?</title>
       <link>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</link>
       <pubDate>Sat, 18 Nov 2023 09:15:19 +0530</pubDate>
@@ -67,6 +94,15 @@
     </item>
     
     <item>
+      <title>An Azure Overview(In Progress)</title>
+      <link>https://belwalkarvarad.tech/posts/azure-overview/</link>
+      <pubDate>Sat, 04 Nov 2023 09:15:19 +0530</pubDate>
+      
+      <guid>https://belwalkarvarad.tech/posts/azure-overview/</guid>
+      <description>How Azure is different from AWS?</description>
+    </item>
+    
+    <item>
       <title>What are custom VPCs in AWS?</title>
       <link>https://belwalkarvarad.tech/posts/aws-vpc-workflow/</link>
       <pubDate>Sat, 04 Nov 2023 09:15:19 +0530</pubDate>
@@ -85,12 +121,12 @@
     </item>
     
     <item>
-      <title>What happens when you register a domain?</title>
-      <link>https://belwalkarvarad.tech/posts/domain-registration/</link>
+      <title>The DNS deep dive</title>
+      <link>https://belwalkarvarad.tech/posts/dns-deep-dive/</link>
       <pubDate>Mon, 16 Oct 2023 09:15:19 +0530</pubDate>
       
-      <guid>https://belwalkarvarad.tech/posts/domain-registration/</guid>
-      <description>domain registration</description>
+      <guid>https://belwalkarvarad.tech/posts/dns-deep-dive/</guid>
+      <description>Learn in depth how DNS System works.</description>
     </item>
     
     <item>

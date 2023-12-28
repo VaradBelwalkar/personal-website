@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://belwalkarvarad.tech/tags/aws/</loc>
-    <lastmod>2023-12-18T13:31:04+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/categories/</loc>
-    <lastmod>2023-12-18T17:09:17+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/posts/vpn-workflow-aws/</loc>
     <lastmod>2023-12-18T13:31:04+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/posts/</loc>
-    <lastmod>2023-12-18T17:09:17+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/</loc>
-    <lastmod>2023-12-18T17:09:17+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/</loc>
-    <lastmod>2023-12-18T17:09:17+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/vpn/</loc>
     <lastmod>2023-12-18T13:31:04+05:30</lastmod>
@@ -30,7 +30,7 @@
     <lastmod>2023-12-14T14:50:28+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/categories/aws/</loc>
-    <lastmod>2023-12-14T14:50:28+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/cloud-storage/</loc>
     <lastmod>2023-12-14T14:50:28+05:30</lastmod>
@@ -59,26 +59,53 @@
     <loc>https://belwalkarvarad.tech/categories/rest/</loc>
     <lastmod>2023-12-18T13:31:04+05:30</lastmod>
   </url><url>
+    <loc>https://belwalkarvarad.tech/posts/aws-route53-overview/</loc>
+    <lastmod>2023-11-22T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/tags/formatting/</loc>
+    <lastmod>2023-11-22T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/categories/formatting/</loc>
+    <lastmod>2023-11-22T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/tags/markdown/</loc>
+    <lastmod>2023-11-22T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/categories/markdown/</loc>
+    <lastmod>2023-11-22T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/posts/markdown-tutorial/</loc>
+    <lastmod>2023-11-22T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/posts/nat-vs-pat/</loc>
+    <lastmod>2023-11-22T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/tags/networking/</loc>
+    <lastmod>2023-12-14T14:50:28+05:30</lastmod>
+  </url><url>
     <loc>https://belwalkarvarad.tech/categories/networking/</loc>
     <lastmod>2023-12-14T14:50:28+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/vpc/</loc>
-    <lastmod>2023-12-14T14:50:28+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/posts/peering-connection-in-aws/</loc>
     <lastmod>2023-12-14T14:50:28+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/posts/aws-cli-commands/</loc>
-    <lastmod>2023-11-09T09:15:19+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/posts/aws-localstack-commands/</loc>
-    <lastmod>2023-11-09T09:15:19+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/services/</loc>
-    <lastmod>2023-12-14T14:50:28+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/categories/vpcs/</loc>
-    <lastmod>2023-12-14T14:50:28+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/posts/azure-overview/</loc>
+    <lastmod>2023-11-04T09:15:19+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/defaultvpc/</loc>
     <lastmod>2023-12-14T14:50:28+05:30</lastmod>
@@ -89,8 +116,20 @@
     <loc>https://belwalkarvarad.tech/posts/defaultvpc-workflow/</loc>
     <lastmod>2023-12-14T14:50:28+05:30</lastmod>
   </url><url>
-    <loc>https://belwalkarvarad.tech/posts/domain-registration/</loc>
-    <lastmod>2023-12-14T14:50:28+05:30</lastmod>
+    <loc>https://belwalkarvarad.tech/tags/deep-dives/</loc>
+    <lastmod>2023-10-16T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/categories/deep-dives/</loc>
+    <lastmod>2023-10-16T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/tags/dns/</loc>
+    <lastmod>2023-10-16T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/categories/dns/</loc>
+    <lastmod>2023-10-16T09:15:19+05:30</lastmod>
+  </url><url>
+    <loc>https://belwalkarvarad.tech/posts/dns-deep-dive/</loc>
+    <lastmod>2023-10-16T09:15:19+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/linux/</loc>
     <lastmod>2023-12-18T13:31:04+05:30</lastmod>
@@ -99,9 +138,6 @@
     <lastmod>2023-12-18T13:31:04+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/posts/linux-virtual-interfaces/</loc>
-    <lastmod>2023-12-14T14:50:28+05:30</lastmod>
-  </url><url>
-    <loc>https://belwalkarvarad.tech/tags/networking/</loc>
     <lastmod>2023-12-14T14:50:28+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/tags/veth/</loc>
@@ -318,7 +354,7 @@
     <lastmod>2023-12-10T21:07:27+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/dailies/</loc>
-    <lastmod>2023-12-18T17:09:17+05:30</lastmod>
+    <lastmod>2023-12-18T22:13:30+05:30</lastmod>
   </url><url>
     <loc>https://belwalkarvarad.tech/posts/</loc>
     <lastmod>2023-12-10T13:05:36+05:30</lastmod>
